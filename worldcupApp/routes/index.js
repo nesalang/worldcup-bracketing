@@ -23,6 +23,7 @@ function updateData() {
 
   let scoreBoard = new ScoreBoard();
   updateGameScore(matchHelper, playerPicks, scoreBoard);
+  scoreBoard.writeToFile();
   matchHelper.writeToFile();
 }
 
@@ -90,6 +91,22 @@ class ScoreBoard
       }
       this.players[pick.username].addScore(match.point);
     }
+  }
+
+  writeToFile()
+  {
+    let scores = []
+    for (const [key, value] of Object.entries(this.players)) {
+      scores.push(value);
+    }
+
+    const data = JSON.stringify(scores);
+    fs.writeFile('./client/src/data/points.json', data, err => {
+      if (err) {
+        throw err;
+      }
+      console.log('file saved');
+    })
   }
 }
 
