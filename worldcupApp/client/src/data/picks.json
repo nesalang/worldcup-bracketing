@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Inyoung",
+        "picks": [
+            "Netherland", "Argentina", "Japan", "Korea", "France", "England", "Spain", "Portugal", "Argentina", "Korea", "France", "Spain", "Argentina", "France", "France"
+        ]
+    },
+    {
+        "name": "Hwasoo",
+        "picks": [
+            "Netherland", "Argentina", "Croatia", "Brazil", "France", "England", "Spain", "Portugal", "Netherland", "Brazil", "England", "Spain", "Brazil", "Spain", "Spain"
+        ]
+    },
+    {
+        "name": "Minsong",
+        "picks": [
+            "USA", "Argentina", "Japan", "Brazil", "France", "England", "Spain", "Portugal", "Argentina", "Brazil", "England", "Spain", "Argentina", "England", "Argentina"
+        ]
+    },
+    {
+        "name": "Jung",
+        "picks": [
+            "Netherland", "Argentina", "Croatia", "Brazil", "France", "England", "Spain", "Switzerland", "Netherland", "Brazil", "England", "Spain", "Brazil", "Spain", "Spain"
+        ]
+    },
+    {
+        "name": "Seokjin",
+        "picks": [
+            "Netherland", "Argentina", "Japan", "Korea", "France", "England", "Spain", "Portugal", "Argentina", "Korea", "England", "Spain", "Argentina", "Spain", "Spain"
+        ]
+    },
+    {
+        "name": "Jaeyong",
+        "picks": [
+            "USA", "Argentina", "Japan", "Korea", "France", "Senegal", "Morocco", "Switzerland", "Argentina", "Korea", "France", "Switzerland", "France", "Argentina", "France"
+        ]
+    }
+
+]

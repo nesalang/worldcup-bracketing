@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "round": 1,
+    "match": 1,
+    "players": [
+      {
+        "id": 1,
+        "name": "Netherland"
+      },
+      {
+        "id": 2,
+        "name": "USA"
+      }
+    ],
+    "score": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "round": 1,
+    "match": 2,
+    "players": [
+      {
+        "id": 3,
+        "name": "Argentina"
+      },
+      {
+        "id": 4,
+        "name": "Australia"
+      }
+    ],
+    "score": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "round": 1,
+    "match": 3,
+    "players": [
+      {
+        "id": 5,
+        "name": "Japan"
+      },
+      {
+        "id": 6,
+        "name": "Croatia"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 4,
+    "round": 1,
+    "match": 4,
+    "players": [
+      {
+        "id": 7,
+        "name": "Brazil"
+      },
+      {
+        "id": 8,
+        "name": "Korea"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "round": 1,
+    "match": 5,
+    "players": [
+      {
+        "id": 9,
+        "name": "France"
+      },
+      {
+        "id": 10,
+        "name": "Poland"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "round": 1,
+    "match": 6,
+    "players": [
+      {
+        "id": 11,
+        "name": "England"
+      },
+      {
+        "id": 12,
+        "name": "Senegal"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 7,
+    "round": 1,
+    "match": 7,
+    "players": [
+      {
+        "id": 13,
+        "name": "Morocco"
+      },
+      {
+        "id": 14,
+        "name": "Spain"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 8,
+    "round": 1,
+    "match": 18,
+    "players": [
+      {
+        "id": 15,
+        "name": "Portugal"
+      },
+      {
+        "id": 16,
+        "name": "Switzerland"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 9,
+    "round": 2,
+    "match": 9,
+    "players": [
+      {
+        "id": 1,
+        "name": "Netherland"
+      },
+      {
+        "id": 3,
+        "name": "Argentina"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 10,
+    "round": 2,
+    "match": 10,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 11,
+    "round": 2,
+    "match": 11,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "round": 2,
+    "match": 12,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 13,
+    "round": 3,
+    "match": 13,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 14,
+    "round": 3,
+    "match": 14,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": 15,
+    "round": 4,
+    "match": 15,
+    "players": [
+      {
+        "name": "TBD"
+      },
+      {
+        "name": "TBD"
+      }
+    ],
+    "score": [
+      0,
+      0
+    ]
+  }
+]
